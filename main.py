@@ -6,7 +6,7 @@
 
 import pandas as p
 
-data=p.read_csv(r"C:\Users\linge\Desktop\python 100 days\projects\pr-26\nato_phonetic_alphabet.csv")
+data=p.read_csv("nato_phonetic_alphabet.csv")
 
 # for i,r in data.iterrows():
 #     print(r)
